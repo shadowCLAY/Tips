@@ -1,0 +1,36 @@
+https://hackerone.com/reports/999765
+https://medium.com/intigriti/how-i-hacked-hundreds-of-companies-through-their-helpdesk-b7680ddc2d4c
+https://hackerone.com/reports/498964
+Full access to internal Gitlab instances at redash.gitlab.com, dashboards.gitlab.com, prometheus.gitlab.com
+https://sites.google.com/securifyinc.com/secblogs/scary-tickets
+
+
+
+
+
+Find subdomains:-
+amass enum -brute -w /root/wordlist.txt -d target -o target.txt
+
+Scan ports:-
+naabu -ports full -exclude-ports 80,443 -hL target.txt -o out.txt
+
+Find vulnerabilities:-
+nuclei -l out.txt -t nuclei-templates/cves/ -o results by @Alra3ees
+ 
+ 
+ 
+ https://twitter.com/ehsayaan/status/1271821043749928960
+ payment amount manipulation by 
+ 
+ 
+ 
+ Excellent e-mail address payloads | exploiting e-mail systems"
+ https://twitter.com/intigriti/status/1272860780694843392
+ 
+ 
+ 
+ 
+ Google Dork:
+site:openbugbounty[dot]org intext:target[dot]com
+
+(https://www.openbugbounty[dot]org/reports/domain/target[dot]com)
