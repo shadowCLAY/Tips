@@ -1,0 +1,13 @@
+-Weird bug I found yesterday 
+-victim has email as victim+@gmail
+.com 
+-i signed up with victimU+0020@gmail.com 
+- deleted my account and victim account got deleted too 
+
+victm: victim@gmail.com
+attacker: victim%00@gmail.com
+
+U+22@gmail.com
+
+
+
