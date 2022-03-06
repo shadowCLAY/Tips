@@ -1,0 +1,5 @@
+1. File Upload with URL
+2. Put file:///anything
+3. Sent The Request.. Error🤨
+4. Wait..Check Response and Got Content of Local File in Response when checked in Burp..
+* Always Check Response of Sensitive Endpoints Manually. Learnt from
