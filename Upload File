@@ -1,0 +1,12 @@
+* .htaccess <- upload htaccess
+* file.svg <- uploading svg = xss
+* file.SVg <- must try case mismatch
+* file.png.svg
+* file.php%00.png
+* file.png' or '1'='1
+* ../../file.png
+* file.'svg <- invalid ext. 
+
+
+https://twitter.com/ehsayaan/status/1263488348783472640
+More infomation
