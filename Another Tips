@@ -34,3 +34,8 @@ nuclei -l out.txt -t nuclei-templates/cves/ -o results by @Alra3ees
 site:openbugbounty[dot]org intext:target[dot]com
 
 (https://www.openbugbounty[dot]org/reports/domain/target[dot]com)
+
+
+
+https://github.com/m8r0wn/taser
+https://github.com/zigoo0/webpwn3r
