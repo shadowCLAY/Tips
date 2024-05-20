@@ -1,17 +1,5 @@
 SSRF protection bypass, Try making 301 , 302 , 303 , 307 Redirect to gopher:// and send SMTP Command , 
-Your mail box may fire 😉 Worked for me multiple times.
+Your mail box may fire. Worked for me multiple times.
 
-          hackerone.com/reports/115748
+          
 
-
-https://medium.com/techfenix/ssrf-server-side-request-forgery-worth-4913-my-highest-bounty-ever-7d733bb368cb
-used 303 Redirect to Bypass SSRF Protection.
-
-
-https://hackerone.com/reports/115978
-SSRF / Local file enumeration / DoS due to improper handling of certain file formats by ffmpeg
-
-
-
-https://hackerone.com/reports/115748
-SSRF in https://imgur.com/vidgif/url
